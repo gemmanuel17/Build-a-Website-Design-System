@@ -1,4 +1,4 @@
-# Build-a-Website-Design-System
+# Website-Design-System
 
 In this project, I will build a style guide/design system for my website.
 
