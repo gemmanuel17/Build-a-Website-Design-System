@@ -1,6 +1,11 @@
 * {
     font-family: 'Rubik', sans-serif;
+    text-align: center;
     margin: 0 auto;
+}
+
+#site-title {
+    font-size: 2.5em;
 }
 
 table, th, td {
