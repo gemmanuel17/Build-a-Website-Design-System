@@ -1,0 +1,27 @@
+table, th, td {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+/* Colors Displayed on "Colors To Be Used" table*/
+
+#display-charcoal {
+    background-color: hsl(197, 37%, 24%);
+}
+
+#display-persian-green {
+    background-color: hsl(173, 58%, 39%);
+}
+
+#display-maize-crayola {
+    background-color: hsl(43, 74%, 66%);
+}
+
+#display-sandy-brown {
+    background-color: hsl(27, 87%, 67%);
+}
+
+#display-burnt-sienna {
+    background-color: hsl(12, 76%, 61%);
+}
