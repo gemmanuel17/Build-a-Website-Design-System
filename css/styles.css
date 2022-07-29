@@ -1,7 +1,11 @@
 * {
     font-family: 'Rubik', sans-serif;
-    text-align: center;
     margin: 0 auto;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    padding-top: 30px;
 }
 
 #site-title {
@@ -12,6 +16,10 @@ table, th, td {
     border: 1px solid #000000;
     border-collapse: collapse;
     padding: 5px;
+}
+
+#table-1, #table-2, #table-3 {
+    width: 470px;
 }
 
 /* Colors Displayed on "Colors To Be Used" table*/
@@ -34,4 +42,19 @@ table, th, td {
 
 #display-burnt-sienna {
     background-color: hsl(12, 76%, 61%);
+}
+
+/* Font examples */
+
+#font-style-regular-italic {
+    font-style: italic;
+}
+
+#font-style-bold {
+    font-weight: 700;
+}
+
+#font-style-bold-italic {
+    font-weight: 700;
+    font-style: italic;
 }
